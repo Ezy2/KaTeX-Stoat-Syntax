@@ -50,7 +50,8 @@ ex. `$$\tiny text$$`
 
 You can center by putting $$ and $$ on newlines
 
-ex. ```
+ex. 
+```
 $$
 text
 $$
