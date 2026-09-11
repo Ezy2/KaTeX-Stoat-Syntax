@@ -1,6 +1,8 @@
 # KaTeX-Stoat
 some help for the katex syntax in stoat.chat
 
+This is based off of https://katex.org/docs/supported I'm simply putting it in easier? to understand words and what works (not all on that site are supported on stoat)
+
 # Basics
 
 The start and the end of your word should start with $$. 
