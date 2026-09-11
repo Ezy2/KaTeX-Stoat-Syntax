@@ -182,6 +182,12 @@ You can combine them to have a no embed link (Beware of scams using this)
 
 `[text](<https://youtube.com>)`
 
+using "`" at the start and end of a scetence it makes a box around it
+
+using "```" at the start and end makes it a multiline box
+
+If u put ">" at the start of a line it will start a unique bulletin style thing
+
 ## Enviroments
 
 This one is hard to explain so I'll just put examples and try my best
