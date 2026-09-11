@@ -182,6 +182,50 @@ You can combine them to have a no embed link (Beware of scams using this)
 
 `[text](<https://youtube.com>)`
 
+## Enviroments
+
+This one is hard to explain so I'll just put examples and try my best
+
+#### Types:
+  - matrix
+  - pmatrix
+  - vmatrix
+  - Bmatrix
+  - cases
+  - smallmatrix
+  - array
+  - bmatrix
+  - Vmatrix
+  - rcases
+
+ex.
+```
+\begin{matrix}
+   text & text \\
+   text & text
+\end{matrix}
+```
+
+so "\\" means new line like a new row and & means new variable so like text & text & text would have 3 different ones on the same row
+
+#### Odd Ones
+
+```
+\def\arraystretch{1.5}
+   \begin{array}{c:c:c}
+   a & b & c \\ \hline
+   d & e & f \\
+   \hdashline
+   g & h & i
+\end{array}
+
+\sum_{
+\begin{subarray}{l}
+   i\in\Lambda\\
+   0<j<n
+\end{subarray}}
+```
+
 # Bugs
 
 Bug: If you do `$$` it will send an invisible line for some reason
