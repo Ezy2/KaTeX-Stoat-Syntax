@@ -110,6 +110,50 @@ You use this also inside text things.
 
 `ex. $$\ddddot \rfloor$$`
 
+## Accents
+
+#### Types:
+  - a'
+  - a''
+  - a^{\prime}
+  - \acute text
+  - \bar text
+  - \breve text
+  - \check text
+  - \dot text
+  - \ddot text
+  - \dddot text
+  - \ddddot text
+  - \grave text
+  - \hat text
+  - \tilde text
+  - \widetilde text
+  - \utilde text
+  - \vec text
+  - \overleftarrow text
+  - \underleftarrow text
+  - \overleftharpoon text
+  - \overleftrightarrow text
+  - \underleftrightarrow text
+  - \overline text
+  - \underline text
+  - \underbar text
+  - \widecheck text
+  - \widehat
+  - \mathring text
+  - \overgroup text
+  - \undergroup text
+  - \Overrightarrow text
+  - \overrightarrow text
+  - \underrightarrow text
+  - \overrightharpoon text
+  - \overbrace text
+  - \underbrace text
+  - \overbracket text
+  - \underbracket text
+  - \overlinesegment text
+  - \underlinesegment text
+
 ## Links and normal text
 
 You can put a link in normal text by doing 
