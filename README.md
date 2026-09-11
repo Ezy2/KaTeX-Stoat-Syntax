@@ -118,7 +118,7 @@ ex. `[text](https://example.com)`
 
 You can also remove embeds by putting < and > at the start and end
 
-ex. <https://youtube.com>
+ex. `<https://youtube.com>`
 
 You can combine them to have a no embed link (Beware of scams using this)
 
