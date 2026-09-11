@@ -210,6 +210,8 @@ so "\\" means new line like a new row and & means new variable so like text & te
 
 #### Odd Ones
 
+Not sure how these ones work so you'll ahve to mess around with it yourself
+
 ```
 \def\arraystretch{1.5}
    \begin{array}{c:c:c}
@@ -224,6 +226,11 @@ so "\\" means new line like a new row and & means new variable so like text & te
    i\in\Lambda\\
    0<j<n
 \end{subarray}}
+
+x = \begin{cases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{cases}
 ```
 
 # Bugs
