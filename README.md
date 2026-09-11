@@ -5,7 +5,7 @@ some help for the katex syntax in stoat.cat
 
 The start and the end of your word should start with $$. 
 
-ex. $$\color{red} test$$
+ex. `$$\color{red} test$$`
 
 KaTeX is also meant for math so it is a little weird to use and will be italic by default
 
@@ -29,10 +29,10 @@ They only support using a parenthesis at the end
 
 the {colour} argument supports html predefined colours and hexadecimal colours
 
-ex. $$\color{red} text$$ or $$\color{#ffffff} text$$
+ex. `$$\color{red} text$$ or $$\color{#ffffff} text$$`
 
 ### \huge, \tiny
 
 \huge and \tiny support using text after
 
-ex. $$\tiny text$$
+ex. `$$\tiny text$$`
