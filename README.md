@@ -156,6 +156,8 @@ You use this also inside text things.
   - \overlinesegment text
   - \underlinesegment text
 
+ex. `$$\ddddot{\underleftarrow{text}}$$`
+
 ## Links and normal text
 
 You can put a link in normal text by doing 
