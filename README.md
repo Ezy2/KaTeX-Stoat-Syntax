@@ -57,8 +57,6 @@ text
 $$
 ```
 
-Bug: If you do `$$test` it will send an invisible line for some reason
-
 ## Fonts
 
 Now remember KaTeX is for *math* so the fonts aren't normal ones
@@ -184,3 +182,6 @@ You can combine them to have a no embed link (Beware of scams using this)
 
 `[text](<https://youtube.com>)`
 
+# Bugs
+
+Bug: If you do `$$` it will send an invisible line for some reason
