@@ -13,7 +13,7 @@ KaTeX is also meant for math so it is a little weird to use and will be italic b
 
 The prefix for it is a backslash '\' 
 
-## Size and Colour
+## Size, Colour, and Position
 
 ### \big, \Big, \bigg, \Bigg
 
@@ -46,10 +46,19 @@ ex. `$$\color{red} text$$ or $$\color{#ffffff} text$$`
 
 ex. `$$\tiny text$$`
 
+### Centering
+
+You can center by putting $$ and $$ on newlines
+
+ex. ```
+$$
+text
+$$
+```
 
 ## Fonts
 
-Now remember KaTeX is for *math* so the fonts arent normal ones
+Now remember KaTeX is for *math* so the fonts aren't normal ones
 
 #### Types:
   - \textsf text (normal)
