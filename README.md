@@ -16,17 +16,18 @@ The prefix for it is a backslash '\'
 No Arguments:
   - \huge text
   - \tiny text
-  - \big (
-  - \Big (
-  - \bigg (
-  - \Bigg (
+  - \big (/[
+  - \Big (/[
+  - \bigg (/[
+  - \Bigg (/[
+  - \textsf
 
 One Argument:
   - \color{color} text
 
 ### \big, \Big, \bigg, \Bigg
 
-They only support using a parenthesis at the end
+They only support using a parenthesis or a bracket
 
 ### \color
 
@@ -39,3 +40,10 @@ ex. `$$\color{red} text$$ or $$\color{#ffffff} text$$`
 \huge and \tiny support using text after
 
 ex. `$$\tiny text$$`
+
+
+## Fonts
+
+Stoat does not support many fonts but to remove the italic you can do
+
+`$$\textsf {text}$$`
