@@ -206,10 +206,12 @@ This one is hard to explain so I'll just put examples and try my best
 
 ex.
 ```
+$$
 \begin{matrix}
    text & text \\
    text & text
 \end{matrix}
+$$
 ```
 
 so "\\" means new line like a new row and & means new variable so like text & text & text would have 3 different ones on the same row
@@ -219,6 +221,7 @@ so "\\" means new line like a new row and & means new variable so like text & te
 Not sure how these ones work so you'll ahve to mess around with it yourself
 
 ```
+$$
 \def\arraystretch{1.5}
    \begin{array}{c:c:c}
    a & b & c \\ \hline
@@ -226,17 +229,22 @@ Not sure how these ones work so you'll ahve to mess around with it yourself
    \hdashline
    g & h & i
 \end{array}
+$$
 
+$$
 \sum_{
 \begin{subarray}{l}
    i\in\Lambda\\
    0<j<n
 \end{subarray}}
+$$
 
+$$
 x = \begin{cases}
    a &\text{if } b \\
    c &\text{if } d
 \end{cases}
+$$
 ```
 
 # Bugs
