@@ -57,6 +57,8 @@ text
 $$
 ```
 
+Bug: If you do `$$test` it will send an invisible line for some reason
+
 ## Fonts
 
 Now remember KaTeX is for *math* so the fonts aren't normal ones
