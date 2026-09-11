@@ -106,5 +106,9 @@ ex. `$$\textsf text$$`
   - \backslash
   - /
 
+You use this also inside text things.
+
+`ex. $$\ddddot \rfloor$$`
+
 
 
