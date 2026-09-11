@@ -13,13 +13,16 @@ The prefix for it is a backslash '\'
 
 ## Types
 
-\color{color} text
-\huge text
-\tiny text
-\big (
-\Big (
-\bigg (
-\Bigg (
+No Arguments:
+  - \huge text
+  - \tiny text
+  - \big (
+  - \Big (
+  - \bigg (
+  - \Bigg (
+
+One Argument:
+  - \color{color} text
 
 ### \big, \Big, \bigg, \Bigg
 
