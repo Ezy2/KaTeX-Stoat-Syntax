@@ -1,5 +1,5 @@
 # KaTeX-Stoat
-some help for the katex syntax in stoat.cat
+some help for the katex syntax in stoat.chat
 
 # Basics
 
@@ -11,31 +11,33 @@ KaTeX is also meant for math so it is a little weird to use and will be italic b
 
 The prefix for it is a backslash '\' 
 
-## Types
+## Size and Colour
 
-No Arguments:
-  - \huge text
-  - \tiny text
+### \big, \Big, \bigg, \Bigg
+
+#### Types:
   - \big (/[
   - \Big (/[
   - \bigg (/[
   - \Bigg (/[
-  - \textsf
 
-One Argument:
-  - \color{color} text
-
-### \big, \Big, \bigg, \Bigg
 
 They only support using a parenthesis or a bracket
 
 ### \color
 
+#### Types:
+  - \color{color} text
+
 the {colour} argument supports html predefined colours and hexadecimal colours
 
 ex. `$$\color{red} text$$ or $$\color{#ffffff} text$$`
 
-### \huge, \tiny
+### \huge, \tiny,
+
+#### Types:
+  - \huge text
+  - \tiny text
 
 \huge and \tiny support using text after
 
@@ -44,6 +46,29 @@ ex. `$$\tiny text$$`
 
 ## Fonts
 
-Stoat does not support many fonts but to remove the italic you can do
+#### Types:
+  - \textsf
+  - \mathbb text
+  - \mathcal text
+  - \mathfrak text
+  - \mathbf text
+  - \mathsf text
+  - \mathtt text
+  - \mathrm text
+  - \mathit text
+
+Now remember KaTeX is for *math* 
+
+fonts:
+  - \textsf text
+  - \mathbb text
+  - \mathcal text
+  - \mathfrak text
+  - \mathbf text
+  - \mathsf text
+  - \mathtt text
+  - \mathrm text
+  - \mathit text
 
 `$$\textsf {text}$$`
+
