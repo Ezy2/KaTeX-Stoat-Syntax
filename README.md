@@ -36,8 +36,9 @@ ex. `$$\color{red} text$$ or $$\color{#ffffff} text$$`
 ### \huge, \tiny,
 
 #### Types:
-  - \huge text
   - \tiny text
+  - \LARGE text
+  - \huge text
 
 \huge and \tiny support using text after
 
@@ -46,29 +47,64 @@ ex. `$$\tiny text$$`
 
 ## Fonts
 
+Now remember KaTeX is for *math* so the fonts arent normal ones
+
 #### Types:
-  - \textsf
-  - \mathbb text
-  - \mathcal text
-  - \mathfrak text
-  - \mathbf text
-  - \mathsf text
-  - \mathtt text
-  - \mathrm text
-  - \mathit text
+  - \textsf text (normal)
+  - \mathbb text (blackboard bold)
+  - \mathcal text (calligraphic)
+  - \mathfrak text (fraktur (gothic))
+  - \mathbf text (bold)
+  - \mathsf text (sans serif)
+  - \mathtt text (typewriter (monspace))
+  - \mathrm text (roman)
+  - \mathit text (italic)
 
-Now remember KaTeX is for *math* 
+ex. `$$\textsf text$$`
 
-fonts:
-  - \textsf text
-  - \mathbb text
-  - \mathcal text
-  - \mathfrak text
-  - \mathbf text
-  - \mathsf text
-  - \mathtt text
-  - \mathrm text
-  - \mathit text
+## Characters
 
-`$$\textsf {text}$$`
+#### Types:
+  - \theta
+  - \prime
+  - \lparen
+  - \rparen
+  - \lbrack
+  - \rbrack
+  - \lbrace
+  - \rbrace
+  - \lBrace
+  - \rBrace
+  - \langle
+  - \rangle
+  - \vert
+  - \Vert
+  - \lVert
+  - \rVert
+  - \lt
+  - \gt
+  - \lceil
+  - \rceil
+  - \lfloor
+  - \rfloor
+  - \lmoustache
+  - \rmoustache
+  - \lgroup
+  - \rgroup
+  - \ulcorner
+  - \urcorner
+  - \llcorner
+  - \lrcorner
+  - \llbracket
+  - \rrbracket
+  - \uparrow
+  - \downarrow
+  - \updownarrow
+  - \Uparrow
+  - \Downarrow
+  - \Updownarrow
+  - \backslash
+  - /
+
+
 
