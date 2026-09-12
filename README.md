@@ -11,7 +11,7 @@ ex. `$$\color{red} test$$`
 
 KaTeX is also meant for math so it is a little weird to use and will be italic by default
 
-The prefix for it is a backslash '\' 
+The prefix for it is a backslash '\\' 
 
 ## Size, Colour, and Position
 
