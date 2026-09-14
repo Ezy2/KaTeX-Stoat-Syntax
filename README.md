@@ -13,9 +13,9 @@ KaTeX is also meant for math so it is a little weird to use and will be italic b
 
 The prefix for it is a backslash '\\' 
 
-You have to do spaces by doing " \\ " 1 space before and after the backslash 
+You have to do spaces by doing "\\ " 1 space after the backslash 
 
-ex `$$\color{red} {This \ is \ a \ space \ test}$$`
+ex `$$\color{red} {This\ is\ a\ space\ test}$$`
 
 ## Size, Colour, and Position
 
