@@ -205,6 +205,7 @@ Here are some fun plaintext characters to use with "```"
   - ╯
   - ╮
   - │
+  - █
 
 ```
 ╭─────────TextBox──────────────╮
