@@ -192,6 +192,28 @@ using "```" at the start and end makes it a multiline box
 
 If u put ">" at the start of a line it will start a unique bulletin style thing
 
+Here are some fun plaintext characters to use with "```"
+
+#### Characters:
+  - ┴
+  - ┬
+  - ┤
+  - ├
+  - ─
+  - ╰
+  - ╭
+  - ╯
+  - ╮
+  - │
+
+```
+╭─────────TextBox──────────────╮
+│                              │
+│   Can make cool text boxes   │
+│                              │
+╰──────────────────────────────╯
+```
+
 ## Enviroments
 
 This one is hard to explain so I'll just put examples and try my best
@@ -253,4 +275,4 @@ $$
 
 # Bugs
 
-Bug: If you do `$$` it will send an invisible line for some reason
+Bug: If you do just `$$` it will send an invisible line for some reason
